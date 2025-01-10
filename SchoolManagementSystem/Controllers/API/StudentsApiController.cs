@@ -37,7 +37,7 @@ namespace SchoolManagementSystem.API
                 student.Status,
                 student.EnrollmentDate,
                 student.SchoolClassId,
-                ImageUrl = student.ImageFullPath 
+                ImageUrl = $"/uploads/students/{student.ImageId}"
             });
 
             return Ok(studentViewModels);

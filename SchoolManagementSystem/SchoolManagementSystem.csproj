@@ -29,13 +29,13 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
     <PackageReference Include="Serilog.Extensions.Logging.File" Version="3.0.1-dev-00077" />
     <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="27.1.51" />
-    <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Logs\" />
     <Folder Include="Migrations\" />
     <Folder Include="wwwroot\dashboard\images\" />
+    <Folder Include="wwwroot\uploads\employees\" />
   </ItemGroup>
 
   <ItemGroup>
