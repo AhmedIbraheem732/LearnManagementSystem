@@ -1,9 +1,9 @@
-# School Management System 🎓
+# LearnManagementSystem
 
 ## About the Project
 The **School Management System** is a web application developed using **ASP.NET Core MVC**. It provides an efficient and secure platform for managing students, teachers, courses, grades, and attendance within a school environment.
 
-## Features 🚀
+## Features 
 - 🔐 **Authentication System:** Login, logout, registration, and password recovery via email.  
 - ✉️ **Temporary Password:** Upon registration, a temporary password with random characters is sent to the user's email.  
 - 👥 **Role Management:** Four user roles—Admin, Staff, Student, and Anonymous.  
